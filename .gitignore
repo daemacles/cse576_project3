@@ -1,0 +1,7 @@
+*~
+build/
+*.o
+main
+*.zip
+*.tar.gz
+
